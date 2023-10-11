@@ -1,4 +1,4 @@
-# DevGPT: We're building the world's best open-source dev agent.
+# TestGPT: We're building the world's best open-source dev agent.
 
 ## Table of Contents
 
@@ -13,15 +13,15 @@
 
 ## Introduction
 
-Welcome to **DevGPT**, the AI-driven development tool designed to transform the way you code. Created to assist developers in achieving their maximum potential, DevGPT is not just an auto-completion tool; it's your AI-powered dev-agent powered by gpt-4-32k and other models.
+Welcome to **TestGPT**, the AI-driven development tool designed to transform the way you code. Created to assist developers in achieving their maximum potential, TestGPT is not just an auto-completion tool; it's your AI-powered dev-agent powered by gpt-4-32k and other models.
 
-![DevGPT](Preview.png)
+![TestGPT](Preview.png)
 
 ## Installation
 
-Once you have the DevGPT release package, follow these straightforward installation steps:
+Once you have the TestGPT release package, follow these straightforward installation steps:
 
-1. **Run the correct installer for your operating system:** The installer will run and install DevGPT for you.
+1. **Run the correct installer for your operating system:** The installer will run and install TestGPT for you.
 
 `MacOS: .dmg`
 
@@ -48,7 +48,7 @@ If you have any questions about installation, get in touch with our team via [Di
 ## Key Outcomes
 
 - **Write Unit Tests**: Automatically generate unit tests for your codebase.
-- **Write Complex Functions**: No need to fret over complex algorithms; let DevGPT handle them.
+- **Write Complex Functions**: No need to fret over complex algorithms; let TestGPT handle them.
 - **Create Components**: Create UI/UX components effortlessly.
 - **Debug**: Troubleshoot issues in your code easily.
 
@@ -68,15 +68,15 @@ If you have any questions about installation, get in touch with our team via [Di
 1. Go to https://supabase.com/dashboard/project/{PROJECT_ID}/sql/new and copy the SQL code from the file "supabase/SupabaseSetup.sql" into the text box and press RUN.
 1. Run NPM install // Yarn install in the root directory of the project in your terminal.
 1. Run NPM run dev // Yarn run dev in terminal.
-1. Sign up to DevGPT in your local enviroment and see your account appear in your Supabase Table; you'll need to confirm your email address via email and this may require you to restart the app after confirmation.
-1. Run the DevGPT-api repo (OSS on GitHub) to make prompts!
+1. Sign up to TestGPT in your local enviroment and see your account appear in your Supabase Table; you'll need to confirm your email address via email and this may require you to restart the app after confirmation.
+1. Run the TestGPT-api repo (OSS on GitHub) to make prompts!
 
 ## Support
 
-For any queries, issues, or support needs, feel free to contact us at support@devgpt.com
+For any queries, issues, or support needs, feel free to contact us at support@TestGPT.com
 
 ---
 
 **Happy Coding!**
 
-The DevGPT Team
+The TestGPT Team
